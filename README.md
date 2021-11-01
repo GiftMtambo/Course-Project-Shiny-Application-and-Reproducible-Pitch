@@ -49,11 +49,11 @@ The repository consists of three final files:
 * README.md
 
 Data File: 
-* puertoricansinusa.csv
+* blc.csv
 
 The ui.R and server.R are the code for the shiny application:  https://zcgmtambo.shinyapps.io/malaria/
 
 Application Details:
 * The shiny application is deployed on ShinyApps.io server at:  https://zcgmtambo.shinyapps.io/malaria/
 * The RStudio presentation slides is published to RPubs at: https://github.com/GiftMtambo/Course-Project-Shiny-Application-and-Reproducible-Pitch
-* Git repository at: https:// 
+* Git repository at:https://github.com/GiftMtambo/Course-Project-Shiny-Application-and-Reproducible-Pitch
