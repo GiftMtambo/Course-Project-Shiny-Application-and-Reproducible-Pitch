@@ -37,10 +37,11 @@ Presentation must satisfy the following
 3. It must be hosted on github or Rpubs
 4. It must contained some embedded R code that gets run when slidifying the document
 
-# Application - Puerto Ricans in USA
+# Dataset Description
 
-Puerto Ricans who were born in Puerto Rico are American citizens as if they were born in the states. At 10% of the Latino population in the United States, Puerto Ricans are the second-largest Latino group nationwide, after Mexican-Americans, and are 1.5% of the entire population of the United States.
-Although the 2010 Census counted the number of Puerto Ricans living in the United States at 4.6 million, estimates in 2012 show the Puerto Rican population to be over 5 million.
+The dataset we’ll be using contains information about all the products sold by BC Liquor Store and is provided by OpenDataBC. They provide a direct link to download a CSV version of the data, and this data has the rare quality that it is immediately clean and useful. You can view the raw data they provide, but I have taken a few steps to simplify the dataset to make it more useful for our app. I removed some columns, renamed other columns, and dropped a few rare factor levels.
+
+The processed dataset we’ll be using in this app is available [here](https://deanattali.com/files/bcl-data.csv).
 
 The repository consists of three final files:
 * ui.R
